@@ -56,7 +56,7 @@ async def play_commnd(
     fplay,
 ):
     
-    sticker_id = "CAACAgUAAyEFAASMKRayAAIRG2fjmOco0oNIINqYxxdJS7nUtpr0AAIUFAAChmdQVi56AsPyXlhWHgQ"
+    sticker_id = "CAACAgUAAyEFAASX9Q9HAAITdGfjonN-sxyPOjc0UJO5ob9t9vxNAAKTGAACQzAZV3fUxcJE88TSHgQ"
     #mystic = await message.reply_text(
     #   _["play_2"].format(channel) if channel else _["play_1"]
     #)

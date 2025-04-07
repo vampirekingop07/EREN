@@ -11,7 +11,7 @@ API_ID = 23023763
 API_HASH = "2f8b093168766704796f1acf6a9830b1"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7559126209:AAGM45B8Nct9Ge7ZpwCcidPPIbd-9EEH_ig"
+BOT_TOKEN = "7559126209:AAEJ_8qWjoI8o3Lb03zzr7FGsXEg4HR8jn4"
 # -------------------------------------------------------
 OWNER_USERNAME = "lllVAMPIRE_KINGlll"
 # --------------------------------------------------------

@@ -27,7 +27,7 @@ MONGO_DB_URI = "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.m
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = -1002355616069
+LOGGER_ID = -1002569490495
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
 OWNER_ID = 7577589716

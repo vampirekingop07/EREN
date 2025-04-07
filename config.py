@@ -13,7 +13,7 @@ API_HASH = "2f8b093168766704796f1acf6a9830b1"
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = "7559126209:AAGM45B8Nct9Ge7ZpwCcidPPIbd-9EEH_ig"
 # -------------------------------------------------------
-OWNER_USERNAME = "llMR_KAMINAll"
+OWNER_USERNAME = "lllVAMPIRE_KINGlll"
 # --------------------------------------------------------
 BOT_USERNAME = "ALYAMUSICROBOT"
 # --------------------------------------------------------
@@ -27,10 +27,10 @@ MONGO_DB_URI = "mongodb+srv://jamunbkl:jamunbkl@cluster0.7yuptvq.mongodb.net/?re
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = -1002564179593
+LOGGER_ID = -1002355616069
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = 7972436690
+OWNER_ID = 7577589716
 
 
 ## Fill these variables if you're deploying on heroku.

@@ -22,7 +22,7 @@ BOT_NAME = "˹ᴀʟʏᴀ ✘ ᴍᴜsɪᴄ˼ ♪"
 
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = "mongodb+srv://jamunbkl:jamunbkl@cluster0.7yuptvq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_DB_URI = "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.mongodb.net/?retryWrites=true&w=majority&appName=VAMPIREKING"
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 

@@ -11,11 +11,11 @@ API_ID = 25571627
 API_HASH = "491d17ce608e603357ecf955fdd49956"
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = "7559126209:AAEJ_8qWjoI8o3Lb03zzr7FGsXEg4HR8jn4"
+BOT_TOKEN = "8132086266:AAELcMHxgboP9TYvzfJG-DdQ4kNpl-pI-YM"
 # -------------------------------------------------------
 OWNER_USERNAME = "lllVAMPIRE_KINGlll"
 # --------------------------------------------------------
-BOT_USERNAME = "ALYAMUSICROBOT"
+BOT_USERNAME = "BABY_X_MUSICBOT"
 # --------------------------------------------------------
 BOT_NAME = "˹ᴀʟʏᴀ ✘ ᴍᴜsɪᴄ˼ ♪"
 # ---------------------------------------------------------

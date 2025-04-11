@@ -27,10 +27,10 @@ MONGO_DB_URI = "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.m
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = -1002107679944
+LOGGER_ID = -1002646860241
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = 7577589716
+OWNER_ID = 8092632336
 
 
 ## Fill these variables if you're deploying on heroku.

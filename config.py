@@ -13,7 +13,7 @@ API_HASH = "491d17ce608e603357ecf955fdd49956"
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = "8132086266:AAF4XpT3Kz46X_VJx_B8s5BgCb1ZvFH2oGo"
 # -------------------------------------------------------
-OWNER_USERNAME = "lllVAMPIRE_KINGlll"
+OWNER_USERNAME = "@va7ce"
 # --------------------------------------------------------
 BOT_USERNAME = "BABY_X_MUSICBOT"
 # --------------------------------------------------------
@@ -27,10 +27,10 @@ MONGO_DB_URI = "mongodb+srv://alyabots636:6dvpdXmakQrZSnJ0@vampireking.qqfnpan.m
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 
 # Chat id of a group for logging bot's activities
-LOGGER_ID = -1002646860241
+LOGGER_ID = -1003176199381
 
 # Get this value from @PURVI_HELP_BOT on Telegram by /id
-OWNER_ID = 8092632336
+OWNER_ID = 7635847659
 
 
 ## Fill these variables if you're deploying on heroku.
@@ -41,15 +41,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/vampire-king-786/BABYMUSICVAMPIRE",
+    "https://github.com/va7ce/EREN",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = "https://t.me/VAMPIRE_UPDATESS"
-SUPPORT_CHAT = "https://t.me/VAMPIRE_UPDATESS"
+SUPPORT_CHANNEL = "https://t.me/vance_update"
+SUPPORT_CHAT = "https://t.me/aboutva7ce"
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
